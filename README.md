@@ -28,7 +28,9 @@
 
 [qBittorent](https://sourceforge.net/projects/qbittorrent/)
 
+[Typora](https://e9xahyk92o.feishu.cn/drive/folder/fldcnITwgI0JGEUENN287TO6IFe)
 
+[F.lux](https://justgetflux.com/)
 
 ## 可选
 
@@ -42,9 +44,12 @@
 
 [HMCL](https://github.com/huanghongxun/HMCL/tags)
 
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
 ## 非必要
 
 [WePE](https://www.wepe.com.cn/download.html)
+
 
 
 
