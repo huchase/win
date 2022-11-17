@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c90d8a210441a849",
+        "id": "6299d26c63ea6ec0",
         "type": "tabs",
         "children": [
           {
-            "id": "e0beaf85eb0fc378",
+            "id": "e49bdbdbcbf97b62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d4f53fd0c42e63a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMD.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMD.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMD.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMD.md"
+                "file": "Git.md"
               }
             }
           }
@@ -149,11 +136,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1d4f53fd0c42e63a",
+  "active": "e49bdbdbcbf97b62",
   "lastOpenFiles": [
-    "README.md",
     "NPM.md",
-    "local/wp.jpg",
-    "Git.md"
+    "WSL.md",
+    "README.md",
+    "Git.md",
+    "CMD.md",
+    "local/wp.jpg"
   ]
 }
