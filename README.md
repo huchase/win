@@ -32,6 +32,9 @@
 
 [F.lux](https://justgetflux.com/)
 
+[VLC](https://www.videolan.org/)
+
+
 ## 可选
 
 [Inkscape](https://inkscape.org/)
