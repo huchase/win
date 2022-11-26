@@ -34,8 +34,19 @@
 
 [VLC](https://www.videolan.org/)
 
+[IDM](https://www.internetdownloadmanager.com/download.html) [(via)](https://yun.xiaoyao01.com/#s/8r0UHXzQ)
+
+[Telegram](https://desktop.telegram.org/)
+
+[XShell](https://www.xshell.com/zh/free-for-home-school/)
+
+[Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
+
+[PotPlayer](https://potplayer.daum.net/)
 
 ## 可选
+
+[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases)
 
 [Inkscape](https://inkscape.org/)
 
@@ -52,9 +63,6 @@
 ## 非必要
 
 [WePE](https://www.wepe.com.cn/download.html)
-
-
-
 
 
 
