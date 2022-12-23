@@ -44,7 +44,13 @@
 
 [PotPlayer](https://potplayer.daum.net/)
 
+[HTTPie](https://httpie.io/download)
+
 ## 可选
+
+[WireShark](https://www.wireshark.org/#download)
+
+[WinRAR](https://www.win-rar.com/download.html?&L=0)
 
 [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases)
 
