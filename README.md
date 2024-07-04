@@ -2,7 +2,7 @@
 
 ## 必备
 
-xxxxxxxxxx npm i -g degit pnpm rimraf @antfu/nish
+
 
 [Obsidian](https://obsidian.md/download)
 
