@@ -3,6 +3,7 @@
 ## 必备
 
 
+[Google Chrome](https://www.google.cn/intl/zh-CN/chrome/)
 
 [Obsidian](https://obsidian.md/download)
 
