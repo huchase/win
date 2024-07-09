@@ -51,9 +51,27 @@
 
 [WeChat](https://pc.weixin.qq.com/?t=win_weixin&lang=zh_CN)
 
-## 可选
+[Navicat Premium Lite](https://www.navicat.com.cn/products/navicat-premium-lite)
+
+[图拉丁吧工具箱](https://www.tbtool.cn/)
+
+[MSI AFTERBURNER](https://tw.msi.com/Landing/afterburner/graphics-cards)
 
 [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
+
+[Figma](https://www.figma.com/downloads/)
+
+[QuickLook](https://github.com/QL-Win/QuickLook/releases)
+
+
+
+
+
+
+
+## 可选
+
+
 
 [PicGo](https://github.com/Molunerfinn/PicGo/releases)
 
@@ -65,25 +83,7 @@
 
 [WPS](https://www.wps.com/download/)
 
-[HMCL](https://github.com/huanghongxun/HMCL/tags)
-
 [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 [WePE](https://www.wepe.com.cn/download.html)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
